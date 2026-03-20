@@ -1,3 +1,5 @@
+# LabyMaze
+# Jules Bonneau, David Lovis, Emilien Pradal, Souhail El Kadi
 import pyxel
 import random
 import time
