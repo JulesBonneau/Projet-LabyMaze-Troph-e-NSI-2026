@@ -23,4 +23,4 @@
 * #### Souhail El Kadi
 
 ## Licence
-#### Ce projet est sous licence 
+#### Ce projet est sous licence GNU 
