@@ -1,5 +1,5 @@
 # LabyMaze
-#### Notre projet Python est un jeu en deux dimensions où le joueur incarne un carrée qui doit résoudre des labyrinthes. En gagnant des pièces petit à petit, le joueur peut acheter des packs dans lesquels il peut obtenir des personnages plus rapides afin de parcourir les labyrinthes plus rapidement.
+#### Notre projet Python est un jeu en deux dimensions où le joueur incarne un carrée qui doit résoudre des labyrinthes. En gagnant des pièces petit à petit, le joueur peut acheter des packs dans lesquels il peut améliorer son personnage afin de devenir plus rapide, de cette manière il peut terminer les labyrinthes plus rapidement.
 ## Pré-requis
 * #### Programme : main.py
 * #### Programme : GRAPHI.pyxres
