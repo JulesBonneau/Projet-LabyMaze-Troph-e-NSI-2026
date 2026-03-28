@@ -9,6 +9,7 @@
 * #### Installer Pyxel s'il ne l'est pas encore, taper dans l'invite de commande : python -m pip install pyxel
 * #### Placer 'main.py et 'GRAPHI.pyxres' dans le même dossier
 * #### Lancer le jeu : main.py
+#### Si le jeu ne se lance pas ou qu'il y a un problème, nous vous invitons à télécharger les deux fichiers "main.py" et "GRAPHI.pyxres", à aller sur le site de Pyxel Studio, à appuyer sur CREATE en haut de l'écran, à copier le lien, à appuyer sur le bouton en haut à gauche, à téléverser les deux fichiers cités précédemment puis enfin à tester le jeu. 
 
 #### Nous avons créer ce projet avec le site et les ressources de Pyxel Studio. Nous nous sommes aidés de leur documentation.
 
